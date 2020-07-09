@@ -13,11 +13,11 @@ $ composer install
 After that run respective example script
 
 ```sh
-$ php example.php
+$ php appsync-query.php
 
-$ php example1.php
+$ php appsync-mutation.php
 
-$ php gql-subscription.php
+$ php appsync-subscription.php
 ```
 
 \*Note: Please replace <Appsync-APP-URL> and <Appsync-APP-Key>.
